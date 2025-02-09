@@ -46,7 +46,7 @@ html::-webkit-scrollbar-thumb{
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-color: #F2EFEB !important;
+  background-color: #ffffff !important;
   z-index: 99999;
   display: flex;
   align-items: center;
@@ -56,7 +56,7 @@ html::-webkit-scrollbar-thumb{
   top: -120%;
 }
 .loader-container img {
-  background-color: #F2EFEB !important;
+  background-color: #ffffff !important;
 }
 /* pre loader end */
 
@@ -76,6 +76,8 @@ header{
 section{
   min-height: 100vh;
   padding: 2rem 9%;
+  margin-bottom: 0;
+
 }
 .heading{
   font-size: 3.5rem;
