@@ -90,7 +90,7 @@ var typed = new Typed(".typing-text", {
         "QA Automation Engineer",
         "Software Quality Engineer",
         "Playwright Automation Engineer",
-        "AI & NLP Researcher",
+        "Applied AI & NLP",
         "Software Tester"
     ],
 
